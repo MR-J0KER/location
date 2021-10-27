@@ -1,4 +1,4 @@
-# location 
+
 # install ini dulu
 
 # pip install requests 
