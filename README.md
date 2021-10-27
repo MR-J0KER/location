@@ -1,14 +1,14 @@
 
-# install ini dulu
+install ini dulu
 
 # pip install requests 
 # apt install python3 
 # apt install git 
 
-# jalankan
+jalankan
 
 # git clone https//github.com/MR-J0KER/location.git 
 # cd location
 # python3 location.py
 
-# selamat mencoba #
+selamat mencoba
